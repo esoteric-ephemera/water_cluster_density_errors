@@ -28,3 +28,5 @@ The docstr there indicates proper usage.
 
 To load total energies for one or more functionals for a give dataset, use the `get_total_energies_by_dataset` function of `read_data.ipynb`.
 Each single calculation (single method, single dataset) includes metadata such as the Gaussian basis set used.
+
+To simply get the values of the binding energies (and interaction and reaction energies, when available) and their errors with respect to the reference values, use `get_energies_and_errors_by_dataset_and_functional`.
