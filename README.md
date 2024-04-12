@@ -13,9 +13,13 @@
 <sup>1</sup>Materials Project, Lawrence Berkeley National Laboratory, Berkeley, California 94720, USA
 
 <sup>2</sup> Department of Physics and Engineering Physics, Tulane University, New Orleans, LA 70118
+
 <sup>3</sup> Department of Physics, Temple University, Philadelphia, PA 19122
+
 <sup>4</sup> Department of Chemistry, Temple University, Philadelphia, PA 19122
+
 <sup>5</sup> Department of Mechanical Engineering, University of Michigan, Ann Arbor, Michigan 48109, USA
+
 <sup>6</sup> Department of Materials Science and Engineering, University of Michigan, Ann Arbor, Michigan 48109, USA
 </font>
 
