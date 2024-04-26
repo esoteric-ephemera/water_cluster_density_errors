@@ -1,5 +1,7 @@
 ## Data for *How does HF-DFT achieve chemical accuracy for water clusters?*
 
+**Preprint:** https://doi.org/10.26434/chemrxiv-2024-s1whk
+
 **Authors:**
 - Aaron D. Kaplan (@esoteric-ephemera), maintainer <sup>1</sup>
 - Chandra Shahi (@schandra85) <sup>2</sup>
