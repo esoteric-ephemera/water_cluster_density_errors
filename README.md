@@ -29,10 +29,12 @@
 This code base collates the geometry files and corresponding HF, DFT, and HF-DFT total energies as JSON files.
 Molecules are stored in `pymatgen` `Molecule` format, with `charge` and `spin_multiplicity` ($=2S + 1$) stored as attributes.
 
-To load the geometries for a given dataset, use the `get_geometry_for_single_dataset` function of `read_data.ipynb`.
+To load the geometries for a given dataset, use the `get_geometry_for_single_dataset` function of `database_tools.py`.
 The docstr there indicates proper usage.
 
-To load total energies for one or more functionals for a give dataset, use the `get_total_energies_by_dataset` function of `read_data.ipynb`.
+To load total energies for one or more functionals for a give dataset, use the `get_total_energies_by_dataset` function of `database_tools.py`.
 Each single calculation (single method, single dataset) includes metadata such as the Gaussian basis set used.
 
 To simply get the values of the binding energies (and interaction and reaction energies, when available) and their errors with respect to the reference values, use `get_energies_and_errors_by_dataset_and_functional`.
+
+An example of usage is provided in `example_read_data.ipynb`.
